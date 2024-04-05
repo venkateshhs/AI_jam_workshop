@@ -3,8 +3,8 @@ import json
 import os
 import time
 
-# Set your OpenAI API key here
-openai.api_key = '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'
+
+openai.api_key = '' # Set your OpenAI API key here
 
 
 def extract_text_from_json(json_path):
